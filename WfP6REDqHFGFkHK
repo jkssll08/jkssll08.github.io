@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+<meta name="csrf-token" content="7VBFggaPUvjtsrGgVcHuDKfCV5xhnmd70Fm6pHgg" />
+<meta name="theme-color" content="#1C1C1C">
+<meta name="title" content="MyCollages.webp — imgfy">
+<meta name="description" content="Бесплатный фотохостинг imgfy: загрузка картинок и фото без регистрации. Вечное хранение, получите ссылку на фото для форумов и сайтов. JPG/PNG.">
+<meta name="keywords" content="фотохостинг, сделать ссылку на фото, хостинг картинок, загрузить скриншот, фото для форума, ссылка на картинку, аналог imgur, bb код картинки, скриншот для gta rp, фотохостинг без регистрации, временное фото">
+<link rel="alternate" hreflang="x-default" href="https://imgfy.ru" />
+    <link rel="alternate" hreflang="en" href="https://imgfy.ru/en" />
+    <link rel="alternate" hreflang="ru" href="https://imgfy.ru/ru" />
+<meta name="robots" content="index, follow">
+<meta name="language" content="Русский">
+<meta name="author" content="Фотохостинг изображений imgfy">
+<meta property="og:url" content="https://imgfy.ru/WfP6REDqHFGFkHK">
+<meta property="og:image" content="https://imgfy.ru/ib/oS6Mp7e8ner4F2z_1782285706.webp">
+<meta property="og:site_name" content="Фотохостинг изображений imgfy">
+<meta property="og:locale" content="ru">
+<meta property="og:locale:alternate" content="ru_RU">
+<meta property="og:type" content="website">
+<meta property="og:title" content="MyCollages.webp — imgfy">
+<meta property="og:description" content="Бесплатный фотохостинг imgfy: загрузка картинок и фото без регистрации. Вечное хранение, получите ссылку на фото для форумов и сайтов. JPG/PNG.">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="315">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="MyCollages.webp — imgfy">
+<meta name="twitter:image:src" content="https://imgfy.ru/ib/oS6Mp7e8ner4F2z_1782285706.webp">
+<meta name="twitter:description" content="Бесплатный фотохостинг imgfy: загрузка картинок и фото без регистрации. Вечное хранение, получите ссылку на фото для форумов и сайтов. JPG/PNG.">
+<title>MyCollages.webp — imgfy</title>
+<link rel="icon" href="https://imgfy.ru/images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://imgfy.ru/images/favicon.png" type="image/x-icon">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://mc.yandex.ru">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700&display=swap">
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(97582769, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/97582769" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+    <link rel="stylesheet" href="https://imgfy.ru/assets/vendor/libs/bootstrap/bootstrap.min.css">
+<link rel="stylesheet" href="https://imgfy.ru/assets/vendor/libs/fontawesome/v6.1.1/fontawesome.min.css">
+<link rel="stylesheet" href="https://imgfy.ru/assets/vendor/libs/toastr/css/vironeer-toastr.min.css">
+<link rel="stylesheet" href="https://imgfy.ru/assets/vendor/libs/simplebar/simplebar.min.css">
+<link rel="stylesheet" href="https://imgfy.ru/assets/css/extra/colors.css">
+<link rel="stylesheet" href="https://imgfy.ru/assets/css/extra/extra.css">
+<link rel="stylesheet" href="https://imgfy.ru/assets/css/application.1264c14887d0bbd31df93debe5bc9e44.css">
+<link rel="stylesheet" href="https://imgfy.ru/assets/css/extra/custom.css">
+    
+</head>
+
+<body>
+    <header class="header">
+        <div class="nav-bar">
+    <div class="container-lg">
+        <div class="nav-bar-container">
+            <a href="https://imgfy.ru" class="logo">
+                <img src="https://imgfy.ru/images/dark-logo.png" alt="Фотохостинг изображений imgfy" />
+            </a>
+            <div class="nav-bar-menu">
+                <div class="overlay"></div>
+                <div class="nav-bar-links">
+                    <div class="nav-bar-menu-header">
+                        <a class="nav-bar-menu-close ms-auto">
+                            <i class="fa fa-times"></i>
+                        </a>
+                    </div>
+                                            <a class="link"
+                            href=https://imgfy.ru>
+                            Фотохостинг
+                        </a>
+                                            <a class="link"
+                            href=https://imgfy.ru/editor>
+                            Фоторедактор
+                        </a>
+                                            <a class="link"
+                            href=https://imgfy.ru/blog>
+                            Читать блог
+                        </a>
+                                        <div class="drop-down languages" data-dropdown>
+    <div class="drop-down-btn">
+        <div class="language-img">
+            <img src="https://imgfy.ru/images/flags/ru.png" alt="Русский" />
+        </div>
+        <span>Русский</span>
+        <i class="fa fa-angle-down ms-2"></i>
+    </div>
+    <div class="drop-down-menu">
+                    <a class="drop-down-item "
+                href="https://imgfy.ru/en">
+                <div class="language-img">
+                    <img src="https://imgfy.ru/images/flags/en.png" alt="English" />
+                </div>
+                English
+            </a>
+                    <a class="drop-down-item active"
+                href="https://imgfy.ru/ru">
+                <div class="language-img">
+                    <img src="https://imgfy.ru/images/flags/ru.png" alt="Русский" />
+                </div>
+                Русский
+            </a>
+            </div>
+</div>
+                                            <a href="https://imgfy.ru/login" class="link-btn">
+                            <button class="btn btn-outline-primary btn-sm">Войти</button>
+                        </a>
+                                                    <a href="https://imgfy.ru/register" class="link-btn">
+                                <button class="btn btn-primary btn-sm">Зарегистрироваться</button>
+                            </a>
+                                                            </div>
+            </div>
+            <div class="nav-bar-actions">
+                                <div class="nav-bar-menu-btn">
+                    <i class="fa-solid fa-bars-staggered fa-lg"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </header>
+    <section class="section pt-0 pb-0">
+            <div class="fileviewer">
+        <div class="container-lg">
+            <div class="fileviewer-body">
+                <center>
+           <div class="vr-adv-unit vr-adv-unit-728x90 mb-40"><!-- Yandex.RTB R-A-13260917-11 -->
+<div id="yandex_rtb_R-A-13260917-11"></div>
+<script>
+window.yaContextCb.push(() => {
+    Ya.Context.AdvManager.render({
+        "blockId": "R-A-13260917-11",
+        "renderTo": "yandex_rtb_R-A-13260917-11"
+    })
+})
+</script></div>
+        </center>
+                <div class="fileviewer-file">
+                    <img src="https://imgfy.ru/ib/oS6Mp7e8ner4F2z_1782285706.webp" alt="MyCollages.webp"
+                        title="MyCollages.webp">
+                </div>
+                <center>
+           <div class="vr-adv-unit vr-adv-unit-728x90 mt-5"><!-- Yandex.RTB R-A-13260917-9 -->
+<div id="yandex_rtb_R-A-13260917-9"></div>
+<script>
+window.yaContextCb.push(() => {
+    Ya.Context.AdvManager.render({
+        "blockId": "R-A-13260917-9",
+        "renderTo": "yandex_rtb_R-A-13260917-9"
+    })
+})
+</script></div>
+        </center>
+                <div class="border-top mt-5 pt-4 mb-4">
+                    <div class="row row-cols-auto align-items-center justify-content-between g-3">
+                        <div class="col">
+                            <div class="fileviewer-user">
+                                <div class="fileviewer-user-img">
+                                    <img src="https://imgfy.ru/images/avatars/default.png" alt="Анонимный" />
+                                </div>
+                                <div class="fileviewer-user-info">
+                                    <h5 class="fileviewer-user-title mb-2">Анонимный</h5>
+                                    <div class="fileviewer-user-meta">
+                                        <div class="fileviewer-user-meta-item">
+                                            <i class="fa-solid fa-calendar me-1"></i>
+                                            24/06/2026
+                                        </div>
+                                        <div class="fileviewer-user-meta-item ms-2">
+                                            <i class="fa-solid fa-eye me-1"></i>
+                                            1
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="row row-cols-auto g-2">
+                                                                    <div class="col">
+                                        <button class="btn btn-primary btn-md download-file"
+                                            data-id="WfP6REDqHFGFkHK">
+                                            <i class="fa fa-download me-1"></i>
+                                            Скачать
+                                        </button>
+                                    </div>
+                                                                <div class="col">
+                                    <button class="fileviewer-sidebar-open btn btn-danger btn-md">
+                                        <i class="fa-solid fa-share-nodes me-1"></i>
+                                        Поделится
+                                    </button>
+                                </div>
+                                                                                                    <div class="col">
+                                        <a data-bs-toggle="modal" data-bs-target="#report" class="btn btn-secondary btn-md">
+                                            <i class="fa-regular fa-flag me-1"></i>
+                                            Пожаловаться
+                                        </a>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <aside class="fileviewer-sidebar">
+            <div class="overlay"></div>
+            <div class="fileviewer-sidebar-content">
+                <div class="fileviewer-sidebar-header">
+                    <h5 class="fileviewer-sidebar-title">Поделится</h5>
+                    <a class="fileviewer-sidebar-close">
+                        <i class="fa fa-times"></i>
+                    </a>
+                </div>
+                <div class="fileviewer-sidebar-body" data-simplebar>
+                                            <div class="fileviewer-sidebar-section">
+                            <div class="share v2">
+                                <a href="https://wa.me/?text=https://imgfy.ru/WfP6REDqHFGFkHK" class="social-btn social-whatsapp" target="_blank">
+    <i class="fab fa-whatsapp"></i>
+</a>
+<a href="http://pinterest.com/pin/create/button/?url=https://imgfy.ru/WfP6REDqHFGFkHK" class="social-btn social-pinterest"
+    target="_blank">
+    <i class="fab fa-pinterest"></i>
+</a>
+                            </div>
+                        </div>
+                        <div class="fileviewer-sidebar-section">
+                            <p class="fileviewer-sidebar-section-title">Поделиться ссылкой</p>
+                            <div class="input-group">
+                                <input id="downloadLink" type="text" class="form-control form-control-md"
+                                    value="https://imgfy.ru/WfP6REDqHFGFkHK" readonly />
+                                <button type="button" class="btn btn-primary btn-copy px-20p"
+                                    data-clipboard-target="#downloadLink">
+                                    <i class="fa-regular fa-clone fa-lg"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="fileviewer-sidebar-section">
+                            <p class="fileviewer-sidebar-section-title">HTML-код</p>
+                            <div class="textarea-btn">
+                                <textarea id="htmlCode" class="form-control" rows="5" readonly><a target="_blank" href="https://imgfy.ru/WfP6REDqHFGFkHK"><img src="https://imgfy.ru/ib/oS6Mp7e8ner4F2z_1782285706.webp" alt="MyCollages.webp"/></a></textarea>
+                                <button class="btn btn-primary btn-copy"
+                                    data-clipboard-target="#htmlCode">Копировать</button>
+                            </div>
+                        </div>
+                        <div class="fileviewer-sidebar-section">
+                            <p class="fileviewer-sidebar-section-title">BBCode</p>
+                            <div class="textarea-btn">
+                                <textarea id="bbCode" class="form-control" rows="5" readonly>[url=https://imgfy.ru/WfP6REDqHFGFkHK][img]https://imgfy.ru/ib/oS6Mp7e8ner4F2z_1782285706.webp[/img][/url]</textarea>
+                                <button class="btn btn-primary btn-copy"
+                                    data-clipboard-target="#bbCode">Копировать</button>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </aside>
+    </div>
+    
+            <section class="section">
+            <div class="container-lg">
+                <div class="section-inner">
+                    <div class="section-header">
+                        <div class="section-title">
+                            <h5>Последние сообщения в блоге</h5>
+                        </div>
+                    </div>
+                    <div class="section-body">
+                        <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3 justify-content-center g-3">
+                                                            <div class="col">
+                                    <div class="blog-post">
+                                        <div class="blog-post-header">
+                                            <a href="https://imgfy.ru/blog/article/kak-zagruzit-skrinshot-minecraft-forum-hosting-sheydery">
+                                                <img src="https://imgfy.ru/images/blog/articles/EpUU6fxDABsAfUR_1767744983.jpg"
+                                                    alt="Как загрузить скриншот Minecraft на форум: Хостинг для скринов с шейдерами и скинов" class="blog-post-img" />
+                                            </a>
+                                        </div>
+                                        <div class="blog-post-body">
+                                            <a class="blog-post-cate"
+                                                href="https://imgfy.ru/blog/category/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F">
+                                                полезная информация
+                                            </a>
+                                            <a href="https://imgfy.ru/blog/article/kak-zagruzit-skrinshot-minecraft-forum-hosting-sheydery"
+                                                class="blog-post-title">
+                                                <h6>Как загрузить скриншот Minecraft на форум: Хостинг для скринов с шейдерами и скинов</h6>
+                                            </a>
+                                            <p class="blog-post-text">
+                                                Гайд, как получить прямую ссылку на скриншот Minecraft для форумов VimeWorld, HolyWorld и других. Загрузка красивых пост...
+                                            </p>
+                                        </div>
+                                        <div class="blog-post-footer">
+                                            <div class="blog-post-user-img">
+                                                <img src="https://imgfy.ru/images/avatars/default.png"
+                                                    alt="Legioner Legioner" />
+                                            </div>
+                                            <div class="blog-post-user-info">
+                                                <span
+                                                    class="blog-post-user-name">Legioner Legioner</span>
+                                                <time class="blog-post-time">07/01/2026</time>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="col">
+                                    <div class="blog-post">
+                                        <div class="blog-post-header">
+                                            <a href="https://imgfy.ru/blog/article/kak-dobavit-text-na-foto">
+                                                <img src="https://imgfy.ru/images/blog/articles/MlnJUSE49pUHWor_1766446999.jpg"
+                                                    alt="Как добавить текст на фото онлайн: делаем красивые надписи и мемы за 1 минуту" class="blog-post-img" />
+                                            </a>
+                                        </div>
+                                        <div class="blog-post-body">
+                                            <a class="blog-post-cate"
+                                                href="https://imgfy.ru/blog/category/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F">
+                                                полезная информация
+                                            </a>
+                                            <a href="https://imgfy.ru/blog/article/kak-dobavit-text-na-foto"
+                                                class="blog-post-title">
+                                                <h6>Как добавить текст на фото онлайн: делаем красивые надписи и мемы за 1 минуту</h6>
+                                            </a>
+                                            <p class="blog-post-text">
+                                                Нужно добавить текст на фото онлайн? В редакторе Imgfy вы можете сделать красивую надпись или мем за 1 минуту. Огромный...
+                                            </p>
+                                        </div>
+                                        <div class="blog-post-footer">
+                                            <div class="blog-post-user-img">
+                                                <img src="https://imgfy.ru/images/avatars/default.png"
+                                                    alt="Legioner Legioner" />
+                                            </div>
+                                            <div class="blog-post-user-info">
+                                                <span
+                                                    class="blog-post-user-name">Legioner Legioner</span>
+                                                <time class="blog-post-time">23/12/2025</time>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="col">
+                                    <div class="blog-post">
+                                        <div class="blog-post-header">
+                                            <a href="https://imgfy.ru/blog/article/kak-skruglit-ugly-na-foto-online">
+                                                <img src="https://imgfy.ru/images/blog/articles/cdZ1zwJPaQiNFg0_1766439621.jpg"
+                                                    alt="Как скруглить углы на фото онлайн за 1 минуту: простая инструкция" class="blog-post-img" />
+                                            </a>
+                                        </div>
+                                        <div class="blog-post-body">
+                                            <a class="blog-post-cate"
+                                                href="https://imgfy.ru/blog/category/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F">
+                                                полезная информация
+                                            </a>
+                                            <a href="https://imgfy.ru/blog/article/kak-skruglit-ugly-na-foto-online"
+                                                class="blog-post-title">
+                                                <h6>Как скруглить углы на фото онлайн за 1 минуту: простая инструкция</h6>
+                                            </a>
+                                            <p class="blog-post-text">
+                                                Как быстро скруглить углы на фото онлайн? Пошаговая инструкция для редактора Imgfy. Сделайте закругленные края за 1 мину...
+                                            </p>
+                                        </div>
+                                        <div class="blog-post-footer">
+                                            <div class="blog-post-user-img">
+                                                <img src="https://imgfy.ru/images/avatars/default.png"
+                                                    alt="Legioner Legioner" />
+                                            </div>
+                                            <div class="blog-post-user-info">
+                                                <span
+                                                    class="blog-post-user-name">Legioner Legioner</span>
+                                                <time class="blog-post-time">23/12/2025</time>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="col">
+                                    <div class="blog-post">
+                                        <div class="blog-post-header">
+                                            <a href="https://imgfy.ru/blog/article/kak-otpravit-foto-domashki-i-konspektov-ssylkoy">
+                                                <img src="https://imgfy.ru/images/blog/articles/Uyq2HQ9sleKM6tY_1765818156.jpg"
+                                                    alt="Как отправить фото домашней работы или конспекта в хорошем качестве: Ссылка вместо 10 файлов" class="blog-post-img" />
+                                            </a>
+                                        </div>
+                                        <div class="blog-post-body">
+                                            <a class="blog-post-cate"
+                                                href="https://imgfy.ru/blog/category/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F">
+                                                полезная информация
+                                            </a>
+                                            <a href="https://imgfy.ru/blog/article/kak-otpravit-foto-domashki-i-konspektov-ssylkoy"
+                                                class="blog-post-title">
+                                                <h6>Как отправить фото домашней работы или конспекта в хорошем качестве: Ссылка вместо 10 файлов</h6>
+                                            </a>
+                                            <p class="blog-post-text">
+                                                Как отправить фото домашней работы, тетради или конспекта в хорошем качестве? Не кидайте файлы в WhatsApp — используйте...
+                                            </p>
+                                        </div>
+                                        <div class="blog-post-footer">
+                                            <div class="blog-post-user-img">
+                                                <img src="https://imgfy.ru/images/avatars/default.png"
+                                                    alt="Legioner Legioner" />
+                                            </div>
+                                            <div class="blog-post-user-info">
+                                                <span
+                                                    class="blog-post-user-name">Legioner Legioner</span>
+                                                <time class="blog-post-time">15/12/2025</time>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="col">
+                                    <div class="blog-post">
+                                        <div class="blog-post-header">
+                                            <a href="https://imgfy.ru/blog/article/umenshit-ves-prezentacii-kartinki-po-ssylke">
+                                                <img src="https://imgfy.ru/images/blog/articles/qNbWYbbQNwQGeck_1765817411.jpg"
+                                                    alt="Как уменьшить вес презентации и вставить картинку ссылкой в PowerPoint и Google Slides: Лайфхак для студентов" class="blog-post-img" />
+                                            </a>
+                                        </div>
+                                        <div class="blog-post-body">
+                                            <a class="blog-post-cate"
+                                                href="https://imgfy.ru/blog/category/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F">
+                                                полезная информация
+                                            </a>
+                                            <a href="https://imgfy.ru/blog/article/umenshit-ves-prezentacii-kartinki-po-ssylke"
+                                                class="blog-post-title">
+                                                <h6>Как уменьшить вес презентации и вставить картинку ссылкой в PowerPoint и Google Slides: Лайфхак для студентов</h6>
+                                            </a>
+                                            <p class="blog-post-text">
+                                                Лайфхак для студентов: как уменьшить вес презентации PowerPoint и Google Slides, вставив картинки ссылкой (URL). Обходим...
+                                            </p>
+                                        </div>
+                                        <div class="blog-post-footer">
+                                            <div class="blog-post-user-img">
+                                                <img src="https://imgfy.ru/images/avatars/default.png"
+                                                    alt="Legioner Legioner" />
+                                            </div>
+                                            <div class="blog-post-user-info">
+                                                <span
+                                                    class="blog-post-user-name">Legioner Legioner</span>
+                                                <time class="blog-post-time">15/12/2025</time>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="col">
+                                    <div class="blog-post">
+                                        <div class="blog-post-header">
+                                            <a href="https://imgfy.ru/blog/article/hranenie-kartinok-dlya-telegraph-email-botov">
+                                                <img src="https://imgfy.ru/images/blog/articles/0TD7aXJxvSyObOQ_1765816508.jpg"
+                                                    alt="Где хранить картинки для Telegraph, HTML-рассылок и Telegram-ботов: Гайд для админа" class="blog-post-img" />
+                                            </a>
+                                        </div>
+                                        <div class="blog-post-body">
+                                            <a class="blog-post-cate"
+                                                href="https://imgfy.ru/blog/category/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F">
+                                                полезная информация
+                                            </a>
+                                            <a href="https://imgfy.ru/blog/article/hranenie-kartinok-dlya-telegraph-email-botov"
+                                                class="blog-post-title">
+                                                <h6>Где хранить картинки для Telegraph, HTML-рассылок и Telegram-ботов: Гайд для админа</h6>
+                                            </a>
+                                            <p class="blog-post-text">
+                                                Где хранить картинки для Telegraph, HTML-рассылок (Email) и Telegram-ботов? Гайд для админов и SMM. Как получить прямую...
+                                            </p>
+                                        </div>
+                                        <div class="blog-post-footer">
+                                            <div class="blog-post-user-img">
+                                                <img src="https://imgfy.ru/images/avatars/default.png"
+                                                    alt="Legioner Legioner" />
+                                            </div>
+                                            <div class="blog-post-user-info">
+                                                <span
+                                                    class="blog-post-user-name">Legioner Legioner</span>
+                                                <time class="blog-post-time">15/12/2025</time>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                        <div class="d-flex justify-content-center mt-5">
+                            <a href="https://imgfy.ru/blog"
+                                class="btn btn-primary-icon btn-md">Посмотреть больше<i
+                                    class="fas fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+            <div id="report" class="modal fade" tabindex="-1" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Пожаловаться на это изображение</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        
+                        
+                        <div class="alert alert-info d-flex align-items-center mb-4 border-start border-4 border-info shadow-sm" role="alert">
+                            <div class="me-3">
+                                <i class="fas fa-shield-alt fa-2x text-info"></i>
+                            </div>
+                            <div>
+                                <h6 class="alert-heading fw-bold mb-1">Жалоба не уйдет в пустоту</h6>
+                                <p class="mb-0 small" style="line-height: 1.4;">
+                                    Модератор проверит вашу заявку вручную в течении рабочей смены, но не дольше чем 24 часов. Если материал нарушает правила или законы РФ, мы удалим его в течение <strong>24 часов</strong>.
+                                </p>
+                            </div>
+                        </div>
+                        
+
+                        <form action="https://imgfy.ru/WfP6REDqHFGFkHK/report" method="POST">
+                            <input type="hidden" name="_token" value="7VBFggaPUvjtsrGgVcHuDKfCV5xhnmd70Fm6pHgg" autocomplete="off">                            <div class="row g-3 mb-3">
+                                <div class="col-lg-6">
+                                    <label class="form-label">Имя : <span
+                                            class="red">*</span></label>
+                                    <input type="name" name="name" class="form-control form-control-md"
+                                        value="" required>
+                                </div>
+                                <div class="col-lg-6">
+                                    <label class="form-label">Электронная почта : <span
+                                            class="red">*</span></label>
+                                    <input type="email" name="email" class="form-control form-control-md"
+                                        value="" required>
+                                </div>
+                            </div>
+                            <div class="mb-3">
+                                <label class="form-label">Причина сообщения :
+                                    <span class="red">*</span></label>
+                                <select name="reason" class="form-select form-select-md" required>
+                                                                            <option value="0">Конфиденциальность, авторские права или юридические жалобы</option>
+                                                                            <option value="1">Спам или вводящие в заблуждение</option>
+                                                                            <option value="2">Вредоносное ПО, вирус или вредоносный контент</option>
+                                                                            <option value="3">Жестокое обращение с ребенком</option>
+                                                                            <option value="4">Другой</option>
+                                                                    </select>
+                            </div>
+                            <div class="mb-3">
+                                <label class="form-label">Подробности : <span
+                                        class="red">*</span></label>
+                                <textarea name="details" class="form-control" rows="7"
+                                    placeholder="Опишите причину, по которой вы сообщили об изображении, максимум в 600 символах."
+                                    required></textarea>
+                            </div>
+                            
+                            
+
+                            
+                            <div class="mb-3 form-check mt-3">
+                                <input type="checkbox" class="form-check-input" id="reportAgree" required>
+                                <label class="form-check-label small" for="reportAgree">
+                                    Я принимаю <a href="https://imgfy.ru/page/terms_of_use" target="_blank" class="text-decoration-underline">Условия использования</a> 
+                                    и <a href="https://imgfy.ru/page/politika-konfidencialnosti" target="_blank" class="text-decoration-underline">Политику конфиденциальности</a>
+                                </label>
+                            </div>
+                            
+
+                            
+                            <button type="submit" id="reportSubmitBtn" class="btn btn-primary btn-md" disabled>
+                                Отправлять
+                            </button>
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        
+        </section>
+    <footer class="footer">
+    <div class="container-lg">
+        <div class="row justify-content-between g-3">
+            <div class="col-auto">
+                <div class="footer-copyright">
+                    <p class="mb-0">&copy; <span data-year></span> Фотохостинг изображений imgfy -
+                        фотохостинг бесплатно.</p>
+                </div>
+            </div>
+                            <div class="col-auto">
+                    <div class="footer-links">
+                                                    <div class="link">
+                                <a href="https://imgfy.ru/page/terms_of_use">Условия пользования</a>
+                            </div>
+                                                    <div class="link">
+                                <a href="https://imgfy.ru/page/politika-konfidencialnosti">Политика конфиденциальности</a>
+                            </div>
+                                            </div>
+                </div>
+                    </div>
+    </div>
+</footer>
+    <script>
+    "use strict";
+    const config = {
+        lang: "ru",
+        baseURL: "https://imgfy.ru",
+        primaryColor: "#1C1C1C",
+        secondaryColor: "#0A458E",
+        alertActionTitle: "Вы уверены?",
+        alertActionText: "Подтвердите, что вы хотите выполнить это действие",
+        alertActionConfirmButton: "Подтвердить",
+        alertActionCancelButton: "Отмена",
+        copiedToClipboardSuccess: "Скопировано в буфер обмена",
+    };
+</script>
+<script>
+    "use strict";
+    let configObjects = JSON.stringify(config),
+        getConfig = JSON.parse(configObjects);
+</script>
+    <div class="cookies">
+        <div class="cookies-img"> <svg id="Capa_1" enable-background="new 0 0 80 80" height="80" viewBox="0 0 512 512" width="80" fill="#1C1C1C" xmlns="http://www.w3.org/2000/svg"> <g> <path d="m438.178 76.192c-47.536-48.158-110.952-75.201-178.567-76.147-7.212-.1-13.522 4.986-14.926 12.091-5.416 27.411-28.68 47.918-56.573 49.869-4.48.314-8.585 2.618-11.184 6.281-2.6 3.663-3.422 8.297-2.239 12.63 5.586 20.476 1.736 43.305-10.561 62.633-12.724 20-32.446 33.267-54.109 36.397-8.034 1.161-13.688 8.503-12.755 16.568.278 2.408.419 4.826.419 7.188 0 34.285-27.892 62.177-62.178 62.177-5.317 0-10.605-.674-15.714-2.004-4.73-1.233-9.763-.081-13.487 3.083-3.726 3.164-5.676 7.943-5.227 12.81 5.829 63.268 34.927 121.852 81.932 164.958 47.303 43.382 108.727 67.274 172.958 67.274 68.38 0 132.667-26.628 181.02-74.981 48.352-48.352 74.98-112.639 74.98-181.019 0-67.744-26.205-131.601-73.789-179.808zm-22.404 339.614c-42.687 42.686-99.44 66.194-159.807 66.194-56.702 0-110.927-21.09-152.684-59.384-36.79-33.739-61.153-78.204-69.795-126.759.671.015 1.344.022 2.016.022 49.797 0 90.498-39.694 92.127-89.102 24.934-7.147 46.979-23.816 61.809-47.125 13.689-21.518 19.664-46.432 17.21-70.384 29.678-7.629 53.879-29.733 64.052-58.777 55.345 3.547 106.87 27.006 146.125 66.776 42.007 42.557 65.141 98.93 65.141 158.733-.001 60.367-23.509 117.121-66.194 159.806z" /> <path d="m176.638 270.685c-28.681 0-52.015 23.334-52.015 52.015s23.334 52.015 52.015 52.015c28.682 0 52.016-23.334 52.016-52.015-.001-28.681-23.335-52.015-52.016-52.015zm0 74.03c-12.139 0-22.015-9.876-22.015-22.015s9.876-22.015 22.015-22.015c12.14 0 22.016 9.876 22.016 22.015-.001 12.139-9.877 22.015-22.016 22.015z" /> <path d="m301.777 182.914c30.281 0 54.917-24.636 54.917-54.917s-24.636-54.917-54.917-54.917-54.917 24.636-54.917 54.917 24.635 54.917 54.917 54.917zm0-79.834c13.739 0 24.917 11.178 24.917 24.917 0 13.74-11.178 24.917-24.917 24.917s-24.917-11.178-24.917-24.917c0-13.74 11.177-24.917 24.917-24.917z" /> <path d="m328.011 312.074c-27.751 0-50.328 22.577-50.328 50.328s22.577 50.328 50.328 50.328 50.328-22.577 50.328-50.328-22.577-50.328-50.328-50.328zm0 70.656c-11.209 0-20.328-9.119-20.328-20.328s9.119-20.328 20.328-20.328 20.328 9.119 20.328 20.328-9.119 20.328-20.328 20.328z" /> <path d="m448.725 234.768c0-27.751-22.577-50.328-50.328-50.328s-50.327 22.577-50.327 50.328 22.576 50.328 50.327 50.328 50.328-22.577 50.328-50.328zm-50.328 20.328c-11.208 0-20.327-9.119-20.327-20.328s9.119-20.328 20.327-20.328c11.209 0 20.328 9.119 20.328 20.328s-9.119 20.328-20.328 20.328z" /> <path d="m383.687 140.08c1.276 6.15 6.276 10.964 12.506 11.905 6.19.934 12.491-2.252 15.423-7.775 2.934-5.525 2.115-12.488-2.108-17.132-4.216-4.636-11.06-6.188-16.852-3.779-6.585 2.74-10.272 9.814-8.969 16.781z" /> <path d="m444.517 324.14c-1.176-6.147-6.34-10.972-12.496-11.898-6.185-.931-12.499 2.243-15.433 7.769-2.934 5.524-2.105 12.499 2.113 17.14 4.223 4.646 11.053 6.158 16.847 3.77 6.502-2.681 10.405-9.862 8.969-16.781z" /> <path d="m191.267 217.7c1.15 6.143 6.358 10.982 12.496 11.905 6.202.933 12.477-2.258 15.433-7.775 2.962-5.528 2.077-12.479-2.11-17.132-4.201-4.668-11.069-6.16-16.85-3.779-6.502 2.68-10.405 9.864-8.969 16.781z" /> <path d="m250.677 423.84c-1.29-6.153-6.263-10.962-12.505-11.909-6.185-.938-12.487 2.257-15.425 7.769-2.944 5.523-2.105 12.498 2.109 17.14 4.209 4.636 11.066 6.181 16.85 3.78 6.49-2.693 10.407-9.862 8.971-16.78z" /> <path d="m316.127 222.41c-1.955-5.978-7.261-10.301-13.613-10.626-6.261-.32-12.191 3.471-14.587 9.246-2.396 5.774-.878 12.66 3.779 16.853 4.671 4.206 11.583 5.054 17.132 2.107 6.271-3.331 9.302-10.803 7.289-17.58z" /> <path d="m279.137 295.89c5.225-3.44 7.747-10.067 6.222-16.118-1.528-6.067-6.839-10.667-13.073-11.271-6.231-.603-12.361 2.833-15.028 8.513-2.662 5.668-1.49 12.581 2.949 17.017 4.983 4.978 13.077 5.806 18.93 1.859z" /> <path d="m90.326 324.14c-1.176-6.147-6.34-10.972-12.496-11.898-6.189-.932-12.498 2.242-15.434 7.769-2.935 5.526-2.11 12.496 2.11 17.14 4.22 4.643 11.059 6.163 16.85 3.77 6.492-2.683 10.42-9.862 8.97-16.781z" /> <path d="m90.607 104.03c28.682 0 52.016-23.334 52.016-52.015-.001-28.681-23.335-52.015-52.016-52.015s-52.015 23.334-52.015 52.015 23.334 52.015 52.015 52.015zm0-74.03c12.14 0 22.016 9.876 22.016 22.015s-9.876 22.015-22.016 22.015c-12.139 0-22.015-9.876-22.015-22.015s9.876-22.015 22.015-22.015z" /> <path d="m1.736 169.21c2.898 5.531 9.277 8.706 15.435 7.772 6.197-.939 11.269-5.751 12.505-11.902 1.233-6.137-1.635-12.584-7.004-15.795-5.383-3.22-12.358-2.699-17.216 1.265-5.546 4.527-6.934 12.366-3.72 18.66z" /> </g> </svg> </div>
+        <p class="cookies-text text-center my-3">Мы используем файлы cookie, чтобы персонализировать ваш опыт. Продолжая посещать этот сайт, вы соглашаетесь на использование нами файлов cookie.</p>
+        <div class="d-flex justify-content-center">
+        <button id="acceptCookie" class="btn btn-primary px-5 me-3">Понятно</button>
+        <a class="btn btn-outline-secondary px-5" href="https://imgfy.ru/page/politika-konfidencialnosti">Подробнее</a>
+        </div>
+        </div>
+    <script src="https://imgfy.ru/assets/vendor/libs/jquery/jquery.min.js"></script>
+<script src="https://imgfy.ru/assets/vendor/libs/bootstrap/bootstrap.bundle.min.js"></script>
+<script src="https://imgfy.ru/assets/vendor/libs/toastr/js/vironeer-toastr.min.js"></script>
+<script src="https://imgfy.ru/assets/vendor/libs/simplebar/simplebar.min.js"></script>
+        <script src="https://imgfy.ru/assets/vendor/libs/clipboard/clipboard.min.js"></script>
+    <script src="https://imgfy.ru/assets/js/application.bcdb220165471f62677305514297a264.js"></script>
+<script src="https://imgfy.ru/assets/js/extra/extra.js"></script>
+<script type="text/javascript">toastr.options={"duration":3000,"animationDuration":400,"progressBar":true,"autoClose":true,"closeButton":true,"closeButtonIcon":"vironeer-toast-close-icon","positionClass":"vironeer-toast-top-right","showIcon":true,"preventDuplicates":true,"icons":{"info":"vironeer-toast-info-icon","warning":"vironeer-toast-warning-icon","success":"vironeer-toast-success-icon","error":"vironeer-toast-error-icon"},"colorsClasses":{"info":"vironeer-toast-info","warning":"vironeer-toast-warning","success":"vironeer-toast-success","error":"vironeer-toast-error"}};</script>        
+        
+        
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                // Находим элементы
+                const reportCheckbox = document.getElementById('reportAgree');
+                const reportBtn = document.getElementById('reportSubmitBtn');
+
+                if(reportCheckbox && reportBtn) {
+                    // Функция переключения
+                    function toggleReportBtn() {
+                        reportBtn.disabled = !reportCheckbox.checked;
+                    }
+
+                    // Слушаем клик
+                    reportCheckbox.addEventListener('change', toggleReportBtn);
+                    
+                    // Проверка при загрузке
+                    toggleReportBtn();
+                }
+            });
+        </script>
+        
+
+        <style>
+            /* Контейнер картинки */
+            .fileviewer-file {
+                display: block;         
+                width: fit-content;     
+                margin: 0 auto;         
+                overflow: hidden;       
+                cursor: zoom-in;        
+                position: relative;
+            }
+            
+            /* Сама картинка */
+            .fileviewer-file img {
+                transition: transform 0.3s ease-out; 
+                transform-origin: center center; 
+                display: block;
+                max-width: 100%;
+            }
+
+            /* Режим "АКТИВНЫЙ ЗУМ" */
+            .fileviewer-file.zoomed {
+                cursor: zoom-out; 
+            }
+            
+            .fileviewer-file.zoomed img {
+                transform: scale(2.5); /* Масштаб увеличения */
+            }
+        </style>
+
+        <script>
+            document.addEventListener("DOMContentLoaded", function() {
+                const container = document.querySelector('.fileviewer-file');
+                const img = container ? container.querySelector('img') : null;
+
+                if (container && img) {
+                    function moveLens(e) {
+                        const rect = container.getBoundingClientRect();
+                        const x = e.clientX - rect.left; 
+                        const y = e.clientY - rect.top;
+                        const xPercent = (x / rect.width) * 100;
+                        const yPercent = (y / rect.height) * 100;
+                        img.style.transformOrigin = `${xPercent}% ${yPercent}%`;
+                    }
+
+                    container.addEventListener('click', function(e) {
+                        if (container.classList.contains('zoomed')) {
+                            container.classList.remove('zoomed');
+                        } else {
+                            moveLens(e); 
+                            container.classList.add('zoomed');
+                        }
+                    });
+
+                    container.addEventListener('mousemove', function(e) {
+                        if (container.classList.contains('zoomed')) {
+                            moveLens(e);
+                        }
+                    });
+
+                    container.addEventListener('mouseleave', function() {
+                        container.classList.remove('zoomed');
+                        setTimeout(() => { img.style.transformOrigin = 'center center'; }, 300);
+                    });
+                }
+            });
+        </script>
+    </body>
+
+</html>
